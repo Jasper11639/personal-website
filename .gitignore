@@ -10,3 +10,6 @@ docs/.vitepress/cache/
 
 # 系统文件
 .DS_Store
+
+# 仓库根目录误跑 vitepress 产生的缓存(防呆)
+/.vitepress/
